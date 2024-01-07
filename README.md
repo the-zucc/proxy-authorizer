@@ -1,4 +1,4 @@
-# HTTPS Proxy Authorizer
+# Proxy Authorizer
 
 ## Overview
 The HTTPS Proxy Authorizer is a tool designed to provide an easy way to use a proxy that requires authorization, especially beneficial for HTTP clients that do not support using an authorized proxy. This application handles both HTTP and HTTPS traffic, forwarding requests to an upstream proxy server with the necessary credentials, and supports proxied HTTPS/TLS traffic.
