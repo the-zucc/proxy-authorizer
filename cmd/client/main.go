@@ -9,7 +9,7 @@ import (
 
 func main() {
 	// Define the URL of the resource you want to fetch
-	resourceUrl := "https://www.google.com"
+	resourceUrl := "https://httpbin.org/headers"
 
 	// Define the proxy URL
 	proxyUrl, err := url.Parse("http://localhost:8080")
